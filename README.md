@@ -14,7 +14,7 @@ Este é um modelo de página de estática baseado em ReactJS, ideal para uma emp
 ### 2. Clone os arquivos
 Após clonar os arquivos, apenas rode o comando ```npm install``` e logo em seguida  ```npm start``` e pronto !!!
 
-### 3. Adicione seu dados 
+### 3. Adicione seus dados 
 Para os dados do site se tornarem dinamicos, mude apenas os dados em ```data.json``` e as imagens em ```public/img/```, além dos estilos que podem ser encontrados em ```public/css```
 
 ## Gostou do projeto?
