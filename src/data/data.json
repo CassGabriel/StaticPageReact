@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "Vista sua criatividade",
+    "paragraph": "Seu negócio ganha vida com o nosso design personalizado, criando conexões únicas entre sua marca e seus clientes."
+  },
+  "About": {
+    "paragraph": "Seu negócio ganha vida com o nosso design personalizado! Somos uma empresa sediada em Campinas do Sul, com mais de 1 ano de atuação no mercado. Trabalhamos com designs únicos, sempre exaltando a sua marca e criando conexões genuínas entre você e seus clientes",
+    "Why": [
+      "Designs Personalizado",
+      "Qualidade Premium",
+      "Atendimento Personalizado",
+      "Entrega Rápida e Eficiente"
+    ],
+    "Why2": [
+      "Impressão de Alta Definição",
+      "Variedade de Modelos",
+      "Preços Competitivos",
+      "Flexibilidade de Personalização"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-star",
+      "name": "Sublimação Térmica",
+      "text": "rocesso que transfere tinta para o tecido utilizando calor e pressão. É ideal para poliéster e tecidos claros."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Serigrafia (Silkscreen)",
+      "text": "écnica tradicional onde uma tela de malha é usada para transferir tinta para o tecido através de um estêncil.."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Impressão DTG (Direct-to-Garment)",
+      "text": "Impressoras especiais aplicam tinta diretamente no tecido, permitindo designs complexos e coloridos.."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Transferência de Calor (Heat Transfer)",
+      "text": "Utiliza papel de transferência e calor para aplicar imagens ou texto no tecido.."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Vinil de Recorte (Heat Transfer Vinyl)",
+      "text": "Vinil é cortado em formas e letras, depois transferido para a camiseta com calor e pressão.."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Plotter de Sublimação",
+      "text": "Impressoras de grande formato imprimem em papel especial para sublimação, usado para grandes produções.."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"As camisetas personalizadas ficaram incríveis, com cores vivas e acabamento impecável. Recomendo a todos!\"",
+      "name": "Carlos Silva"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"A qualidade das estampas e a durabilidade dos materiais superaram minhas expectativas. Excelente serviço!\"",
+      "name": "Felipe Souza"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Recebi exatamente o que pedi: camisetas confortáveis com designs perfeitos. Muito satisfeito com o resultado.\"",
+      "name": "Ricardo Almeida"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"A personalização e a atenção aos detalhes fizeram toda a diferença. Adorei o atendimento e a rapidez na entrega.\"",
+      "name": "Marcela Pereira"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Designs personalizados com excelente qualidade de impressão. Produto final impecável, super recomendado!\"",
+      "name": "Gustavo Costa"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Ótima experiência! As camisetas personalizadas chegaram perfeitas, do jeito que imaginei. Voltarei a comprar.\"",
+      "name": "Thalita Oliveira"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Felipe Araujo",
+      "job": "Fundador/Coordenador de Produção"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Douglas Oliveira",
+      "job": "Diretor de Produção"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Janete Doesk",
+      "job": "Serigrafista "
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Customização Personalizada",
+      "text": "Permite que os clientes escolham estampas, cores, estilos e tamanhos personalizados para suas camisetas."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Sistema de Produção",
+      "text": "Uso de tecnologia como máquinas automatizadas para corte de tecidos e costura, reduzindo o tempo de produção."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Controle de Qualidade ",
+      "text": "Mecanismos para monitorar a qualidade de cada etapa da produção, garantindo que os produtos atendam aos padrões estabelecidos.."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Materiais Ecológicos",
+      "text": "Implementação de práticas sustentáveis, como o uso de tecidos orgânicos ou reciclados e processos de produção que reduzem o desperdício e o consumo de água."
+    }
+  ]
+}
