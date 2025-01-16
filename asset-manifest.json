@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CassGabriel/StaticPageReact/static/css/main.ae42ac5f.css",
+    "main.js": "/CassGabriel/StaticPageReact/static/js/main.98a19215.js",
+    "index.html": "/CassGabriel/StaticPageReact/index.html",
+    "main.ae42ac5f.css.map": "/CassGabriel/StaticPageReact/static/css/main.ae42ac5f.css.map",
+    "main.98a19215.js.map": "/CassGabriel/StaticPageReact/static/js/main.98a19215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.98a19215.js"
+  ]
+}
