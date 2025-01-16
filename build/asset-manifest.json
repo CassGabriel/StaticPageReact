@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StaticPageReact/static/css/main.ae42ac5f.css",
+    "main.js": "/StaticPageReact/static/js/main.98a19215.js",
+    "index.html": "/StaticPageReact/index.html",
+    "main.ae42ac5f.css.map": "/StaticPageReact/static/css/main.ae42ac5f.css.map",
+    "main.98a19215.js.map": "/StaticPageReact/static/js/main.98a19215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.98a19215.js"
+  ]
+}
