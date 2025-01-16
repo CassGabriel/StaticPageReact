@@ -1,34 +1,23 @@
-# React JS Landing Page Template
+# Static Page React JS
 
 **
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+### <a href="https://cassgabriel.github.io/StaticPageReact/">LIVE DEMO</a> 
 
-**
+## Descrição
+Este é um modelo de página de estática baseado em ReactJS, ideal para uma empresa ou serviço iniciante com uma visualização de página única.
 
+## Você pode recrialo!
+### 1. Primeiros passos 
+É necessários ter instaldo <a href="https://nodejs.org/">Node JS</a> em seu pc. 
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+### 2. Clone os arquivos
+Após clonar os arquivos, apenas rode o comando ```npm install``` e logo em seguida  ```npm start``` e pronto !!!
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+### 3. Adicione seu dados 
+Para os dados do site se tornarem dinamicos, mude apenas os dados em ```data.json``` e as imagens em ```public/img/```, além dos estilos que podem ser encontrados em ```public/css```
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+## Gostou do projeto?
+Dê uma estrela em meu repositório. Its freee ! S2
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
-
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
-
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-
-##### Issaaf kattan
+##### Dev Gabriel Rossignoli 
